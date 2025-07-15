@@ -12,3 +12,4 @@ dist/* linguist-vendored
 *.pyc linguist-detectable=false
 *.zip linguist-detectable=false
 *.txt linguist-detectable=false
+*.json linguist-detectable=false
