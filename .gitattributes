@@ -5,3 +5,10 @@ build/* linguist-vendored
 dist/* linguist-vendored
 *.sty linguist-detectable=false
 *.cls linguist-detectable=false
+*.toc linguist-detectable=false
+*.pyz linguist-detectable=false
+*.pkg linguist-detectable=false
+*.exe linguist-detectable=false
+*.pyc linguist-detectable=false
+*.zip linguist-detectable=false
+*.txt linguist-detectable=false
