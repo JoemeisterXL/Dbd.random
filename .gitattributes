@@ -3,3 +3,5 @@
 *.html linguist-detectable=false
 build/* linguist-vendored
 dist/* linguist-vendored
+*.sty linguist-detectable=false
+*.cls linguist-detectable=false
